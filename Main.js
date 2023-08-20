@@ -1,4 +1,4 @@
-// lesson 3 time 30 m
+// lesson 3 time 1:13 m
 
 let name = 'Vadym naum'
 let age = 32
